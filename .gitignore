@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.pyc
+.env
+*.log
+tmp/
+temp/
+/tmp/
+attached_assets/
+.local/
+.config/
+.upm/
+.cache/
+replit.nix
+.replit
