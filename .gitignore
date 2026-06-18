@@ -13,3 +13,6 @@ attached_assets/
 .cache/
 replit.nix
 .replit
+node_modules/
+.firebase/
+package-lock.json
